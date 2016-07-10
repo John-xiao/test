@@ -110,7 +110,7 @@
         <key>thumb</key>
         <string>s2</string>
         <key>video</key>
-        <string>story1</string>
+        <string>story2</string>
     </dict>
     <dict>
         <key>section</key>
@@ -141,7 +141,7 @@
         <key>thumb</key>
         <string>s3</string>
         <key>video</key>
-        <string>story1</string>
+        <string>story3</string>
     </dict>
     <dict>
         <key>section</key>
@@ -178,7 +178,7 @@
         <key>thumb</key>
         <string>s4</string>
         <key>video</key>
-        <string>story1</string>
+        <string>story4</string>
     </dict>
     <dict>
         <key>section</key>
