@@ -45,11 +45,6 @@
 		AA3646631CCC6796005383EB /* menuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AA3646621CCC6796005383EB /* menuViewController.m */; };
 		AA3646771CCC77B9005383EB /* StoryCell.m in Sources */ = {isa = PBXBuildFile; fileRef = AA3646761CCC77B9005383EB /* StoryCell.m */; };
 		AA36467A1CCC7930005383EB /* StoryModel.m in Sources */ = {isa = PBXBuildFile; fileRef = AA3646791CCC7930005383EB /* StoryModel.m */; };
-		AA370A451CD05CD90069FB8B /* material1.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AA370A401CD05CD90069FB8B /* material1.mp4 */; };
-		AA370A461CD05CD90069FB8B /* material2.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AA370A411CD05CD90069FB8B /* material2.mp4 */; };
-		AA370A471CD05CD90069FB8B /* material3.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AA370A421CD05CD90069FB8B /* material3.mp4 */; };
-		AA370A481CD05CD90069FB8B /* material4.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AA370A431CD05CD90069FB8B /* material4.mp4 */; };
-		AA370A491CD05CD90069FB8B /* story1.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AA370A441CD05CD90069FB8B /* story1.mp4 */; };
 		AA370A4B1CD07A5B0069FB8B /* star@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA370A4A1CD07A5B0069FB8B /* star@2x.jpg */; };
 		AA78E8141CC271D4005722A0 /* start@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AA78E8131CC271D4005722A0 /* start@2x.png */; };
 		AA78E8161CC271DA005722A0 /* stop@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AA78E8151CC271DA005722A0 /* stop@2x.png */; };
@@ -192,11 +187,6 @@
 		AA3646781CCC7930005383EB /* StoryModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StoryModel.h; sourceTree = "<group>"; };
 		AA3646791CCC7930005383EB /* StoryModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StoryModel.m; sourceTree = "<group>"; };
 		AA36467C1CCC7ADF005383EB /* PrefixHeader.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
-		AA370A401CD05CD90069FB8B /* material1.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = material1.mp4; sourceTree = "<group>"; };
-		AA370A411CD05CD90069FB8B /* material2.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = material2.mp4; sourceTree = "<group>"; };
-		AA370A421CD05CD90069FB8B /* material3.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = material3.mp4; sourceTree = "<group>"; };
-		AA370A431CD05CD90069FB8B /* material4.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = material4.mp4; sourceTree = "<group>"; };
-		AA370A441CD05CD90069FB8B /* story1.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = story1.mp4; sourceTree = "<group>"; };
 		AA370A4A1CD07A5B0069FB8B /* star@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "star@2x.jpg"; sourceTree = "<group>"; };
 		AA78E8131CC271D4005722A0 /* start@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "start@2x.png"; sourceTree = "<group>"; };
 		AA78E8151CC271DA005722A0 /* stop@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "stop@2x.png"; sourceTree = "<group>"; };
@@ -500,11 +490,6 @@
 				EA4A50261D29FADF008510A2 /* material3-2.mp4 */,
 				EA4A50271D29FADF008510A2 /* material4-1.mp4 */,
 				EA4A50281D29FADF008510A2 /* material4-2.mp4 */,
-				AA370A401CD05CD90069FB8B /* material1.mp4 */,
-				AA370A411CD05CD90069FB8B /* material2.mp4 */,
-				AA370A421CD05CD90069FB8B /* material3.mp4 */,
-				AA370A431CD05CD90069FB8B /* material4.mp4 */,
-				AA370A441CD05CD90069FB8B /* story1.mp4 */,
 			);
 			path = videos;
 			sourceTree = "<group>";
@@ -714,7 +699,6 @@
 				AA0B201E1CCCD1F100E1AAD1 /* back_button.png in Resources */,
 				EA4A50411D29FDBA008510A2 /* s3@2x.png in Resources */,
 				16123E9A1CC60E3A00031557 /* capture_rec_off@2x.png in Resources */,
-				AA370A471CD05CD90069FB8B /* material3.mp4 in Resources */,
 				AA0B20331CCCF3E600E1AAD1 /* SMAVPlayerViewController.xib in Resources */,
 				16123E981CC60E3A00031557 /* capture_rec_base@2x.png in Resources */,
 				EA4A50361D29FD53008510A2 /* m3-1@2x.png in Resources */,
@@ -727,7 +711,6 @@
 				EA4A50331D29FD53008510A2 /* m2-2@2x.png in Resources */,
 				AA921CD61CD2030A007DA57F /* ic_border_bottomleft@2x.png in Resources */,
 				EAD4FF841D32A0CA00424EE9 /* story4.mp4 in Resources */,
-				AA370A491CD05CD90069FB8B /* story1.mp4 in Resources */,
 				AA78E8141CC271D4005722A0 /* start@2x.png in Resources */,
 				AA90CF2D1CC237A600F32BF5 /* ora_startup_movie.mp4 in Resources */,
 				EAA50DD71CCE19B3008E794C /* sc1@2x.png in Resources */,
@@ -739,7 +722,6 @@
 				EA4A50381D29FD53008510A2 /* m4-1@2x.png in Resources */,
 				EA41B2F21CEAEBA5008DF071 /* time@2x.png in Resources */,
 				AA921CD91CD2030A007DA57F /* ic_border_topright@2x.png in Resources */,
-				AA370A481CD05CD90069FB8B /* material4.mp4 in Resources */,
 				AA0B201F1CCCD1F100E1AAD1 /* default_image_road@2x.png in Resources */,
 				AA0B20211CCCD1F100E1AAD1 /* me.png in Resources */,
 				AA0B20261CCCD1F100E1AAD1 /* play_stop@2x.png in Resources */,
@@ -748,13 +730,11 @@
 				EA41B2F61CEAEBE4008DF071 /* script@2x.png in Resources */,
 				16123E971CC60E3A00031557 /* capture_flip@2x.png in Resources */,
 				AA0B20241CCCD1F100E1AAD1 /* play_start@2x.png in Resources */,
-				AA370A461CD05CD90069FB8B /* material2.mp4 in Resources */,
 				EA41B2EC1CEAEA94008DF071 /* camera@2x.png in Resources */,
 				EA4A50401D29FDBA008510A2 /* s2@2x.png in Resources */,
 				EA4A50321D29FD53008510A2 /* m2-1@2x.png in Resources */,
 				EAD4FF831D32A0CA00424EE9 /* story3.mp4 in Resources */,
 				AAF6BF0B1CEC18300047F0A1 /* add@2x.png in Resources */,
-				AA370A451CD05CD90069FB8B /* material1.mp4 in Resources */,
 				EA2E231D1CD051A000801945 /* sc3@2x.png in Resources */,
 				EA41B2F01CEAEB85008DF071 /* play_stop.png in Resources */,
 				EA41B2F81CEAEC22008DF071 /* eye@2x.png in Resources */,

@@ -27,16 +27,16 @@
         VideoModel *videoModel = [[VideoModel alloc] init];
         switch (i) {
             case  0:
-                videoModel.strURL =@"story1";
-                videoModel.strTitle = @"玉髓究竟怎么玩";
+                videoModel.strURL =@"story2";
+                videoModel.strTitle = @"我的奇妙男友";
                 break;
             case  1:
-                videoModel.strURL =@"story1";
-                videoModel.strTitle = @"玉髓究竟怎么玩";
+                videoModel.strURL =@"story2";
+                videoModel.strTitle = @"我的奇妙男友";
                 break;
             case  2:
-                videoModel.strURL =@"story1";
-                videoModel.strTitle = @"玉髓究竟怎么玩";
+                videoModel.strURL =@"story2";
+                videoModel.strTitle = @"我的奇妙男友";
                 break;
             default:
                 break;
